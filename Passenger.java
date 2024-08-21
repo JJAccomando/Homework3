@@ -1,6 +1,6 @@
 package com.solvd.laba.homework3;
 
-public class Passenger implements UniqueID {
+public class Passenger implements UniqueIDInterface {
     
     private static final int MAX_LUGGAGE = 10;
     public String firstName;

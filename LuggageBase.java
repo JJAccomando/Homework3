@@ -1,6 +1,6 @@
 package com.solvd.laba.homework3;
 
-public class LuggageBase implements UniqueID {
+public class LuggageBase implements UniqueIDInterface {
 
     private int weight, iD = 0;
     public static int numLuggage = 0;

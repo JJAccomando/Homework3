@@ -1,6 +1,6 @@
 package com.solvd.laba.homework3;
 
-public interface B737 {
+public interface B737Interface {
 
     int TOTAL_SEATS = 118;
     int TOTAL_IN_FIRST = 4;

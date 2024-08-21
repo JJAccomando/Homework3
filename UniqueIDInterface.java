@@ -1,6 +1,6 @@
 package com.solvd.laba.homework3;
 
-public interface UniqueID {
+public interface UniqueIDInterface {
 
     int getId();
 

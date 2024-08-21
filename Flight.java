@@ -1,6 +1,6 @@
 package com.solvd.laba.homework3;
 
-public final class Flight implements UniqueID {
+public final class Flight implements UniqueIDInterface {
 
     enum SeatType {
         FIRST_CLASS,

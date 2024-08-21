@@ -1,6 +1,6 @@
 package com.solvd.laba.homework3;
 
-public abstract class AirplaneBase implements Airplanes, UniqueID {
+public abstract class AirplaneBase implements AirplanesInterface, UniqueIDInterface {
     
     public static int numPlanes;
     

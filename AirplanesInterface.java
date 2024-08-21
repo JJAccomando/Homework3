@@ -1,6 +1,6 @@
 package com.solvd.laba.homework3;
 
-public interface Airplanes {
+public interface AirplanesInterface {
 
     int getTotalSeats();
     int getSeatsInFirst();

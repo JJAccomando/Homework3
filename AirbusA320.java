@@ -1,6 +1,6 @@
 package com.solvd.laba.homework3;
 
-public class AirbusA320 extends AirplaneBase implements A320 {
+public class AirbusA320 extends AirplaneBase implements A320Interface {
 
     private int iD = 0;
     private static int count = 0;

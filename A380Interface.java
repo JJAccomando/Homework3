@@ -1,6 +1,6 @@
 package com.solvd.laba.homework3;
 
-public interface A380 {
+public interface A380Interface {
 
     int TOTAL_SEATS = 518;
     int TOTAL_IN_FIRST = 16;

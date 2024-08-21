@@ -1,6 +1,6 @@
 package com.solvd.laba.homework3;
 
-public class Boeing737 extends AirplaneBase implements B737 {
+public class Boeing737 extends AirplaneBase implements B737Interface {
     
     private int iD = 0;
     private static int count = 0;
